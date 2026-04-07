@@ -1,4 +1,4 @@
-# 🎮 Pygame Speed 3D - Web Game
+# 🎮 Webgame Speed 3D - Web Game
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -16,7 +16,7 @@ Play the game online:
 
 ## 🎯 About the Game
 
-**Pygame Speed 3D** is a small **interactive 3D simulation game** created with HTML, CSS, and JavaScript.  
+**Webgame Speed 3D** is a small **interactive 3D simulation game** created with HTML, CSS, and JavaScript.  
 Players can **control a car**, avoid obstacles, and test their reflexes in a fast-paced environment.  
 
 This project is perfect for showcasing **front-end web development skills** while combining **creativity and game logic**.
